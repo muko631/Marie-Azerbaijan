@@ -33,6 +33,7 @@ Salam! mənim adım *{}*dir.
 *Əsas* mövcud əmrlər:
  - /start: Botu başladır...
  - /help: kömək....
+ - /donate: Buradan bəxşiş verə bilərsən:)
  - /settings:
    - PM    : müxtəlif konfiqurasiyalar etməkdə köməkçi olacaq (PM -də)....
    - qrupda: birbaşa qrupda da edə bilərsiniz
@@ -42,7 +43,7 @@ Və aşağıdakılar:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nBütün əmrlər  / və ya ! ilə işlədilə bilir...\n")
 
 DONATE_STRING = """Oh bəxşiş. Sahibimin bəxşişə ehtiyyacı yoxdu düzdür kasıb adamdır amma ehtiyyacı yoxdu amma siz mənə dəstək olmaq üçün 
-[blog kanalıma](https://t.me/rihads) abunə ola bilərsiniz.😊"""
+[blog kanalıma](https://t.me/mukoblog) abunə ola bilərsiniz.😊"""
 
 IMPORTED = {}
 MIGRATEABLE = []
